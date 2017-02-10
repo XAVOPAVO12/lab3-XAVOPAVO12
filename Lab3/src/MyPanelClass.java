@@ -46,7 +46,7 @@ public class MyPanelClass extends JPanel {
                         g.drawLine(x1 ,y1+height , (x2/2), (y2/2));
                         
              
-                      
+                      //flag stuff
                         Polygon p = new Polygon();
                         p.addPoint(x1, y1);
                         p.addPoint(width/2, height/2);
